@@ -4,4 +4,7 @@ A text-based adventure game created with Swing Library for Scala course offered 
 The game takes inspiration from one of Batman's classic intelligence fights with his brainy nemesis - The Riddler. Players will have to use imagination and memorizing skills to answer The Riddler's brain teasers and find their way to his secret room. More detialed instructions are available in the file "moreInstruction.txt". Revealed answered to The Riddler's brain teasers are available in the file "walkthrough.txt".
 
 The game uses Scala Swing library, hence it is recommended that it is run on some Scala editor, e.g. Eclispe.
+
+Source code of the game is in CoreGame/BatmanGame/o1/adventure/
+
 Enjoy^^!
